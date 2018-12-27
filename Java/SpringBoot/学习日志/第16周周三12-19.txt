@@ -1,0 +1,5 @@
+spring将项目打包为jar包，同时在某个环境下运行，请思考其使用情况；
+使用单元测试模拟简单的Http请求；
+
+springboot中的各种注解了解方式：
+单元测试:https://segmentfault.com/a/1190000014731019
